@@ -34,31 +34,31 @@ https://agile-headland-10228.herokuapp.com/
 <img src="/screenshots/Login.jpeg" width=700></img>
 
 
-## Acknowledgement
-Colt Steele
+
 ### Campgrounds Page
 <img src="/screenshots/Campgrounds.jpeg" width=700></img>
 
 ### Authorization Check
-Checking if any thing can be done by a particular user.
+<p>Checking if any thing can be done by a particular user.</p>
 <img src="/screenshots/Authorization.jpeg" width=700></img>
 
 ### Campground without Author
 <img src="/screenshots/CampwithoutAuthor.jpeg" width=700></img>
 
 ### Campground with Author Logged in.
-Will have features like Editing or Deleting the Campground and adding reviews
+<p>Will have features like Editing or Deleting the Campground and adding reviews</p>
 <img src="/screenshots/CampwithAuthor.jpeg" width=700></img>
 
 ### New Campground
-User can create a campground only when he/she is logged in.
+<p>User can create a campground only when he/she is logged in.</p>
 <img src="/screenshots/NewCamp.jpeg" width=700></img>
 
 ### Edit Campground
-Only the Author can Edit or Delete a Campground
+<p>Only the Author can Edit or Delete a Campground</p>
 <img src="/screenshots/EditCamp.jpeg" width=700></img>
 
-
+## Acknowledgement
+Colt Steele
 
 
 
