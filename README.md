@@ -4,6 +4,23 @@ Full Stack Website with a lot of functionalities
 ## Website is Live : 
 https://agile-headland-10228.herokuapp.com/
 
+## Learnings
+<ul>  
+  <li>Creating Frontend using Bootstrap 5</li>
+  <li>Creating server using Express.js</li>
+  <li>Writing Custom Middlewares in Express</li>
+  <li>Validation using JOI</li>
+  <li>Authentication</li>
+  <li>Authorization</li>
+  <li>Express Routers and Cookies</li>
+  <li>Express Session and Flash</li>
+  <li>Creating models to store in MongoDB</li>
+  <li>Mapping multiple schemas in MongoDB</li>
+  <li>Image uploading using cloudinary</li>
+  <li>Adding Map features using third-party library Mapbox</li>
+  <li>Handling few Security issues like Mongo Injection and Cross site Scripting</li>
+  <li>Deploying the app in Heroku</li>
+</ul>
 
 ## Product Walkthrough
 
@@ -16,6 +33,9 @@ https://agile-headland-10228.herokuapp.com/
 ### Login Page
 <img src="/screenshots/Login.jpeg" width=700></img>
 
+
+## Acknowledgement
+Colt Steele
 ### Campgrounds Page
 <img src="/screenshots/Campgrounds.jpeg" width=700></img>
 
