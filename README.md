@@ -1,5 +1,5 @@
 # IndCamp
-Full Stack Website with a lot of functionalities
+Full Stack Website with interactive features.
 
 ## Website is Live : 
 https://agile-headland-10228.herokuapp.com/
